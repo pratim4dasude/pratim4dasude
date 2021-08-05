@@ -1,5 +1,6 @@
 ### Hi there 👋 
-games are all the
+games are all the 
+# manage to get out
 
 <!--
 **pratim4dasude/pratim4dasude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
