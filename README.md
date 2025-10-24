@@ -48,9 +48,9 @@ Curious and hands-on, I enjoy experimenting with new frameworks, optimizing work
 ### 🧩 Featured Projects
 | Project | Description |
 |----------|--------------|
-| 📊 **Order Amount Prediction** | Built an ensemble regression model (XGBoost, LightGBM) for accurate sales forecasting, improving prediction stability and reducing variance across time periods. |
-| 🧬 **Medical NLP** | Designed a domain-adapted NLP pipeline using transformer-based models for extracting and classifying key entities from medical texts. |
-| 🛒 **E-Commerce Website** | Developed a full-stack web platform for product management and analytics, integrating real-time data visualization and recommendation features. |
+| **Order Amount Prediction** | Built an ensemble regression model (XGBoost, LightGBM) for accurate sales forecasting, improving prediction stability and reducing variance across time periods. |
+| **Medical NLP** | Designed a domain-adapted NLP pipeline using transformer-based models for extracting and classifying key entities from medical texts. |
+| **E-Commerce Website** | Developed a full-stack web platform for product management and analytics, integrating real-time data visualization and recommendation features. |
 
 ---
 
