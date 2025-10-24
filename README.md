@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hey, I'm Pratim Dasude</h1>
 <p align="center">
-  <a href="https://linkedin.com/in/pratim-dasude">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://drive.google.com/file/d/1bR2QJKTdU1ROeN-CcGNR540jG6-Q59aa/view?usp=sharing">Resume</a> &nbsp;|&nbsp;
-  <a href="https://pratim-portfolio.com">Website</a> &nbsp;|&nbsp;
-  <a href="https://www.kaggle.com/pratimdasude">Kaggle</a> &nbsp;|&nbsp;
-  <a href="https://huggingface.co/pratim-dasude">Hugging Face</a>
+  <a href="https://linkedin.com/in/pratim-dasude" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://drive.google.com/file/d/1bR2QJKTdU1ROeN-CcGNR540jG6-Q59aa/view?usp=sharing" target="_blank">Resume</a> &nbsp;|&nbsp;
+  <a href="https://pratim-portfolio.com" target="_blank">Website</a> &nbsp;|&nbsp;
+  <a href="https://www.kaggle.com/pratimdasude" target="_blank">Kaggle</a> &nbsp;|&nbsp;
+  <a href="https://huggingface.co/PratimDasude" target="_blank">Hugging Face</a>
 </p>
 
 
