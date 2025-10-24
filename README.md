@@ -6,6 +6,10 @@
   <a href="https://www.kaggle.com/pratimdasude" target="_blank">Kaggle</a> &nbsp;|&nbsp;
   <a href="https://huggingface.co/PratimDasude" target="_blank">Hugging Face</a>
 </p>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pratim4dasude&theme=onedark-duo&hide_border=true&border_radius=3.1&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>  
+</p>
+
 
 
 🚀 **Machine Learning Engineer** · **AI Research Enthusiast** · **Generative AI Developer** · **Data Science Practitioner** · **Full-Stack Explorer**
@@ -77,4 +81,10 @@ Curious and hands-on, I enjoy experimenting with new frameworks, optimizing work
 ---
 
 ⭐ *"Building systems that learn, imagine, and create."*  
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pratim-dasude&label=Profile%20Views&color=brightgreen&style=plastic" alt="pratim-dasude" />
+</p>
+
+
 
