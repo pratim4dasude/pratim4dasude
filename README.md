@@ -2,9 +2,9 @@
 
 🚀 **Machine Learning Engineer** · **AI Research Enthusiast** · **Generative AI Developer** · **Data Science Practitioner** · **Full-Stack Explorer**
 
-I build and deploy intelligent systems that combine data, AI, and software engineering to solve real-world problems.  
-Experienced with Python, PyTorch, TensorFlow, and modern web tools, I focus on creating scalable solutions in predictive analytics, NLP, and computer vision.  
-Driven by curiosity, I enjoy working on projects that push boundaries and make technology more accessible and impactful.
+I build data-driven and intelligent applications that blend machine learning with modern web technologies.  
+From **LLM-powered reasoning systems** to **interactive AI tools using React and Next.js**, I focus on creating end-to-end products that are both scalable and impactful.  
+Curious and hands-on, I enjoy experimenting with new frameworks, optimizing workflows, and turning innovative ideas into working solutions.
 
 
 
@@ -51,12 +51,22 @@ Driven by curiosity, I enjoy working on projects that push boundaries and make t
 
 ---
 
+## 🧾 Publications  
+
+| Title | Description |
+|--------|--------------|
+| [**Investigating Deep Learning Architectures for Robust Speech Emotion Recognition**](https://ieeexplore.ieee.org/document/10837169) | Compared LSTM, CNN, and CLSTM models for speech emotion recognition, analyzing accuracy and robustness for emotion-aware HCI systems. |
+| [**Leveraging BERT-Enhanced MLP Classifier for Automated Stress Detection in Social Media Articles**](https://ieeexplore.ieee.org/document/10743857) | Built a BERT-Enhanced MLP Classifier achieving **95% accuracy** on Reddit & Twitter data for stress detection and mental health analysis. |
+| [**Multilingual SMS Spam Detection using BERT and LSTM**](https://ieeexplore.ieee.org/document/10616322) | Conducted multilingual spam detection (English, French, German) using Kaggle data; **Naive Bayes model** achieved **98.1% accuracy**. |
+
+-----
+
 ### 🧭 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratim-dasude) &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratim-dasude) &nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratim-dasude/) &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratim4dasude) &nbsp;
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pratimdasude) &nbsp;
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/pratim-dasude)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/PratimDasude)
 
 ---
 
