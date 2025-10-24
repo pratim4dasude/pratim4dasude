@@ -3,7 +3,6 @@
   <a href="https://linkedin.com/in/pratim-dasude" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://drive.google.com/file/d/1bR2QJKTdU1ROeN-CcGNR540jG6-Q59aa/view?usp=sharing" target="_blank">Resume</a> &nbsp;|&nbsp;
   <a href="https://pratim-portfolio.com" target="_blank">Website</a> &nbsp;|&nbsp;
-  <a href="https://www.kaggle.com/pratimdasude" target="_blank">Kaggle</a> &nbsp;|&nbsp;
   <a href="https://huggingface.co/PratimDasude" target="_blank">Hugging Face</a>
 </p>
 <p align="center">
