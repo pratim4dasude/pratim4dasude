@@ -1,8 +1,12 @@
-# 👋 Hey, I'm Pratim Mangaldas Dasude  
+# 👋 Hey, I'm Pratim Dasude  
 
-🚀 **AI/ML Engineer | Generative AI | LLMs | Vision Systems**  
-I build intelligent systems that blend data, creativity, and automation — from **LLM-powered agents** to **diffusion-based image generation**.  
-Curious mind. Fast learner. Always building the next cool thing.  
+🚀 **Machine Learning Engineer** · **AI Research Enthusiast** · **Generative AI Developer** · **Data Science Practitioner** · **Full-Stack Explorer**
+
+I build and deploy intelligent systems that combine data, AI, and software engineering to solve real-world problems.  
+Experienced with Python, PyTorch, TensorFlow, and modern web tools, I focus on creating scalable solutions in predictive analytics, NLP, and computer vision.  
+Driven by curiosity, I enjoy working on projects that push boundaries and make technology more accessible and impactful.
+
+
 
 ---
 
@@ -34,10 +38,9 @@ Curious mind. Fast learner. Always building the next cool thing.
 ### 🧩 Featured Projects
 | Project | Description |
 |----------|--------------|
-| 🧠 **Order Amount Prediction** | Time-series regression using ensemble models for better forecasting accuracy. |
-| 👕 **AI Outfit Stylizer** | Vision-based pipeline that transforms product photos into professional images using Stable Diffusion + ComfyUI. |
-| 🪄 **EchoSeek (Hackathon)** | Agentic search & reasoning system using NVIDIA NIM + Llama 3 microservices. |
-| 🧾 **Expense Splitter API** | FastAPI-based expense-sharing app with balance sheets, validations, and user auth. |
+| 📊 **Order Amount Prediction** | Built an ensemble regression model (XGBoost, LightGBM) for accurate sales forecasting, improving prediction stability and reducing variance across time periods. |
+| 🧬 **Medical NLP** | Designed a domain-adapted NLP pipeline using transformer-based models for extracting and classifying key entities from medical texts. |
+| 🛒 **E-Commerce Website** | Developed a full-stack web platform for product management and analytics, integrating real-time data visualization and recommendation features. |
 
 ---
 
@@ -48,11 +51,12 @@ Curious mind. Fast learner. Always building the next cool thing.
 
 ---
 
-### 🧭 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratim-dasude)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratim-dasude)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pratimdasude)  
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/pratim-dasude)  
+### 🧭 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pratim-dasude) &nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratim-dasude) &nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/pratimdasude) &nbsp;
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/pratim-dasude)
 
 ---
 
