@@ -1,12 +1,18 @@
-# 👋 Hey, I'm Pratim Dasude  
+<h1 align="center">👋 Hey, I'm Pratim Dasude</h1>
+<p align="center">
+  <a href="https://linkedin.com/in/pratim-dasude">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://drive.google.com/file/d/1bR2QJKTdU1ROeN-CcGNR540jG6-Q59aa/view?usp=sharing">Resume</a> &nbsp;|&nbsp;
+  <a href="https://pratim-portfolio.com">Website</a> &nbsp;|&nbsp;
+  <a href="https://www.kaggle.com/pratimdasude">Kaggle</a> &nbsp;|&nbsp;
+  <a href="https://huggingface.co/pratim-dasude">Hugging Face</a>
+</p>
+
 
 🚀 **Machine Learning Engineer** · **AI Research Enthusiast** · **Generative AI Developer** · **Data Science Practitioner** · **Full-Stack Explorer**
 
 I build data-driven and intelligent applications that blend machine learning with modern web technologies.  
 From **LLM-powered reasoning systems** to **interactive AI tools using React and Next.js**, I focus on creating end-to-end products that are both scalable and impactful.  
 Curious and hands-on, I enjoy experimenting with new frameworks, optimizing workflows, and turning innovative ideas into working solutions.
-
-
 
 ---
 
