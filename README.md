@@ -32,16 +32,19 @@ Curious and hands-on, I enjoy experimenting with new frameworks, optimizing work
 ### 🧰 Tech Stack
 
 **Languages:**  
-`Python` · `JavaScript` · `SQL`  
+`Python` · `JavaScript` · `TypeScript` · `SQL` · `Bash`
 
-**Libraries & Tools:**  
-`PyTorch` · `scikit-learn` · `HuggingFace` · `OpenCV` · `NumPy` · `Pandas`  
+**Libraries & Frameworks:**  
+`PyTorch` · `TensorFlow` · `scikit-learn` · `HuggingFace` · `LangChain` · `OpenCV` · `NumPy` · `Pandas` · `Matplotlib`
 
 **Infra & Deployment:**  
-`Azure` · `Google Cloud (Vertex AI)` · `Docker` · `FastAPI` · `Git`  
+`AWS SageMaker` · `Azure` · `Google Cloud (Vertex AI)` · `Docker` · `FastAPI` · `Flask` · `Git` · `CI/CD` · `REST APIs`
 
-**Other Interests:**  
-`LangChain` · `LLMOps` · `Diffusion Models` · `ComfyUI` · `Automation`  
+**Front-End & Visualization:**  
+`React.js` · `Next.js` · `TailwindCSS` · `Plotly` · `Streamlit`
+
+**Specialized Domains:**  
+`RAG Pipelines` · `LLMOps` · `Vector Databases (FAISS)` · `NVIDIA NIM` · `Multi-Modal AI` · `Diffusion Models` · `ComfyUI` · `Automation` · `Computer Vision` · `NLP`
 
 ---
 
