@@ -48,10 +48,10 @@ Curious and hands-on, I enjoy experimenting with new frameworks, optimizing work
 ### 🧩 Featured Projects
 | Project | Description |
 |----------|--------------|
-| **Order Amount Prediction** | Built an ensemble regression model (XGBoost, LightGBM) for accurate sales forecasting, improving prediction stability and reducing variance across time periods. |
-| **Medical NLP** | Designed a domain-adapted NLP pipeline using transformer-based models for extracting and classifying key entities from medical texts. |
-| **E-Commerce Website** | Developed a full-stack web platform for product management and analytics, integrating real-time data visualization and recommendation features. |
-
+| **EchoSeek** | Developed an AI-powered search and recommendation system combining **Llama-3** reasoning with **vision-language embeddings** for contextual product retrieval. Integrated **LangChain**, **FastAPI**, and **Next.js** for an end-to-end multi-modal RAG pipeline deployed on **AWS SageMaker**. |
+| **Order Amount Prediction** | Built an ensemble regression model (**XGBoost**, **LightGBM**) for accurate sales forecasting, improving prediction stability and reducing variance across time periods. |
+| **Medical NLP** | Designed a domain-adapted **NLP** pipeline using transformer-based models for extracting and classifying key entities from medical texts. |
+| **E-Commerce Website** | Developed a **full-stack web platform** for product management and analytics, integrating real-time data visualization and recommendation features. |
 ---
 
 ### 📈 Current Focus
