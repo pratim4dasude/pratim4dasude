@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Pratim Dasude</h1>
 <p align="center">
   <a href="https://linkedin.com/in/pratim-dasude" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://drive.google.com/file/d/1hpKno6W2ErhdSlIWLx692Uk2atwJSqQs/view?usp=sharing" target="_blank">Resume</a> &nbsp;|&nbsp;
+  <a href="https://drive.google.com/file/d/1MwcjWI4BINeXVU1UvklN2ExJCZZ7iZ66/view?usp=sharing" target="_blank">Resume</a> &nbsp;|&nbsp;
   <a href="https://pratim-portfolio.com" target="_blank">Website</a> &nbsp;|&nbsp;
   <a href="https://huggingface.co/PratimDasude" target="_blank">Hugging Face</a>
 </p>
