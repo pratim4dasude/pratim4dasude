@@ -20,7 +20,7 @@ Curious and hands-on, I enjoy experimenting with new frameworks, optimizing work
 ---
 
 ### 🧠 What I Do
-- 🤖 **Machine Learning & AI:** Tree-based models (XGBoost, LightGBM), Time Series Forecasting, Model Optimization, Feature Engineering  
+- 🤖 **Machine Learning & AI:** Tree-based models (XGBoost, LightGBM), Time Series Forecasting, Model Optimization
 - 🧩 **Generative AI:** Diffusion Models (Stable Diffusion, Flux), Style Transfer, IPAdapter, Inpainting, LoRA fine-tuning  
 - 🗣️ **LLMs & Agents:** Prompt Engineering, RAG, Multi-Agent Systems, LangChain, Vertex AI  
 - ⚙️ **MLOps & APIs:** FastAPI, Model Deployment (Azure / GCP), Automation Pipelines  
