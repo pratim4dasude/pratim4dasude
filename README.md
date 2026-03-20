@@ -11,7 +11,6 @@
 </p> -->
 
 
-
 🚀 **Machine Learning Engineer** · **AI Research Enthusiast** · **Generative AI Developer** · **Data Science Practitioner** · **Full-Stack Explorer**
 
 I build data-driven and intelligent applications that blend machine learning with modern web technologies.  
@@ -21,7 +20,7 @@ Curious and hands-on, I enjoy experimenting with new frameworks, optimizing work
 ---
 
 ### 🧠 What I Do
-- 🤖 **Machine Learning & AI:** Tree-based models (XGBoost, LightGBM), Time Series Forecasting, Model Optimization  
+- 🤖 **Machine Learning & AI:** Tree-based models (XGBoost, LightGBM), Time Series Forecasting, Model Optimization, Feature Engineering  
 - 🧩 **Generative AI:** Diffusion Models (Stable Diffusion, Flux), Style Transfer, IPAdapter, Inpainting, LoRA fine-tuning  
 - 🗣️ **LLMs & Agents:** Prompt Engineering, RAG, Multi-Agent Systems, LangChain, Vertex AI  
 - ⚙️ **MLOps & APIs:** FastAPI, Model Deployment (Azure / GCP), Automation Pipelines  
