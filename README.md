@@ -1,3 +1,4 @@
+
 <h1 align="center">👋 Hey, I'm Pratim Dasude</h1>
 <p align="center">
   <a href="https://linkedin.com/in/pratim-dasude" target="_blank">LinkedIn</a> &nbsp;|&nbsp;
@@ -11,7 +12,7 @@
 </p> -->
 
 
-🚀 **Machine Learning Engineer** · **AI Research Enthusiast** · **Generative AI Developer** · **Data Science Practitioner** · **Full-Stack Explorer**
+**Machine Learning Engineer** · **AI Research Enthusiast** · **Generative AI Developer** · **Data Science Practitioner** · **Full-Stack Explorer**
 
 I build data-driven and intelligent applications that blend machine learning with modern web technologies.  
 From **LLM-powered reasoning systems** to **interactive AI tools using React and Next.js**, I focus on creating end-to-end products that are both scalable and impactful.  
@@ -19,16 +20,28 @@ Curious and hands-on, I enjoy experimenting with new frameworks, optimizing work
 
 ---
 
-### 🧠 What I Do
-- 🤖 **Machine Learning & AI:** Tree-based models (XGBoost, LightGBM), Time Series Forecasting, Model Optimization
-- 🧩 **Generative AI:** Diffusion Models (Stable Diffusion, Flux), Style Transfer, IPAdapter, Inpainting, LoRA fine-tuning  
-- 🗣️ **LLMs & Agents:** Prompt Engineering, RAG, Multi-Agent Systems, LangChain, Vertex AI  
-- ⚙️ **MLOps & APIs:** FastAPI, Model Deployment (Azure / GCP), Automation Pipelines  
-- 🧍‍♂️ **Computer Vision:** Pose detection, Outfit transformation, Image segmentation (Grounded SAM, YOLO)  
+### What I Do
+- **Machine Learning & AI:** Tree-based models (XGBoost, LightGBM), Time Series Forecasting, Model Optimization
+- **Generative AI:** Diffusion Models (Stable Diffusion, Flux), Style Transfer, IPAdapter, Inpainting, LoRA fine-tuning  
+- **LLMs & Agents:** Prompt Engineering, RAG, Multi-Agent Systems, LangChain, Vertex AI  
+- **MLOps & APIs:** FastAPI, Model Deployment (Azure / GCP), Automation Pipelines  
+- **Computer Vision:** Pose detection, Outfit transformation, Image segmentation (Grounded SAM, YOLO)  
 
 ---
 
-### 🧰 Tech Stack
+## What I Work On
+
+- **Generative AI & Computer Vision**  
+  Diffusion models, inpainting, ControlNet, IP-Adapter, LoRA, image editing, segmentation, pose-guided workflows, and visual automation.
+- **LLMs, RAG & Agentic Systems**  
+  Retrieval-augmented generation, semantic search, vector databases, multi-step reasoning workflows, tool-using agents, and conversational AI systems.
+- **Machine Learning & Data Science**  
+  Classification, regression, forecasting, feature engineering, model evaluation, NLP pipelines, and production-oriented ML workflows.
+- **AI Backend & Product Engineering**  
+  FastAPI, REST APIs, Docker, cloud deployment, model serving, automation pipelines, and React/Next.js interfaces for AI applications.
+
+---
+### Tech Stack
 
 **Languages:**  
 `Python` · `JavaScript` · `TypeScript` · `SQL` · `Bash`
@@ -47,7 +60,7 @@ Curious and hands-on, I enjoy experimenting with new frameworks, optimizing work
 
 ---
 
-### 🧩 Featured Projects
+### Featured Projects
 | Project | Description |
 |----------|--------------|
 | **EchoSeek** | Developed an AI-powered search and recommendation system combining **Llama-3** reasoning with **vision-language embeddings** for contextual product retrieval. Integrated **LangChain**, **FastAPI**, and **Next.js** for an end-to-end multi-modal RAG pipeline deployed on **AWS SageMaker**. |
@@ -56,14 +69,14 @@ Curious and hands-on, I enjoy experimenting with new frameworks, optimizing work
 | **E-Commerce Website** | Developed a **full-stack web platform** for product management and analytics, integrating real-time data visualization and recommendation features. |
 ---
 
-### 📈 Current Focus
+### Current Focus
 - Building **agentic AI workflows** that reason, retrieve, and act autonomously  
 - Exploring **multimodal systems** that connect text, vision, and voice  
 - Writing cleaner, modular ML code for scalable AI pipelines  
 
 ---
 
-## 🧾 Publications  
+## Publications  
 
 | Title | Description |
 |--------|--------------|
@@ -73,7 +86,7 @@ Curious and hands-on, I enjoy experimenting with new frameworks, optimizing work
 
 -----
 
-### 🧭 Connect with Me  
+### Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratim-dasude/) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratim4dasude) &nbsp;
@@ -88,5 +101,6 @@ Curious and hands-on, I enjoy experimenting with new frameworks, optimizing work
   <img src="https://komarev.com/ghpvc/?username=pratim-dasude&label=Profile%20Views&color=brightgreen&style=plastic" alt="pratim-dasude" />
 </p>
 
-
+> [!TIP]  
+> I'm open to opportunities,
 
